@@ -1,1 +1,0 @@
-// Serial Hello World code placeholder
